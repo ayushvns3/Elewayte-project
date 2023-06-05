@@ -1,4 +1,7 @@
 # Elewayte-project
+Use code view
+
+
 This is the minor project files. Its a personal portfolio website.
 The html,css and favicon are seperate files.
 All the png and jpeg files have to be saved in a single folder names "images".
