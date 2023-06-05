@@ -7,4 +7,4 @@ There will now be four files
 2.images--->(all the png and jpeg files)
 3.index.html
 4.style.css
-These four files need to be inside a parent folder and saved with name "CSS - My Site".
+These four files need to be inside a parent folder and saved with name "CSS - My Site"
